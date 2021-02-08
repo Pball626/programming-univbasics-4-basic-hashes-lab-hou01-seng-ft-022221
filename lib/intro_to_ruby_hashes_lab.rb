@@ -19,6 +19,7 @@ end
 
 
 def id_hash_generator(number)
+  id_hash_generator = {
   {id:451}
   # return a hash with a key :id assigned to the provided number
 end
