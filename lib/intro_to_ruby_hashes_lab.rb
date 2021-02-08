@@ -19,6 +19,6 @@ end
 
 
 def id_hash_generator(number)
-  {id:number.object_id} = 5
+  {id:number.object_id}
   # return a hash with a key :id assigned to the provided number
 end
