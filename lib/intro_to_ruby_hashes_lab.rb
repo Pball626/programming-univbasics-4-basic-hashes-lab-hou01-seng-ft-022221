@@ -5,7 +5,7 @@ end
 
 def my_hash
   name = {
-    joey => ""
+    name => "joey"
   }
   # return a valid hash with any key/value pair of your choice
 end
